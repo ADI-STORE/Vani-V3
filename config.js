@@ -46,7 +46,7 @@ global.mods = []
 global.prems = []
 global.nomorbot = '6282398074198'
 global.nomorown = '6287841959988'
-global.nomorown1 = '6287841959988''
+global.nomorown1 = '6287841959988'
 global.nomorown2 = '+17077704359'
 global.nomorwa = '0'
 
